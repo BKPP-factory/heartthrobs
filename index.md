@@ -4,7 +4,7 @@
   <meta http-equiv="refresh" content="3">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title></title>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
 <div style="margin: 25% 25% auto">
